@@ -8,6 +8,7 @@ CRUD de **Tarefas** construído com FastAPI, pymongo e Docker, com base em Arqui
 
 - Faça o git clone do repositório
 - Inicie o Docker com o comando:
+
 ```bash
 docker-compose up --build
 ```

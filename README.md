@@ -9,4 +9,3 @@ CRUD de **Tarefas** construído com FastAPI, pymongo e Docker, com base em Arqui
 ```bash
 docker-compose up --build
 ```
-# Tasks-API
